@@ -60,4 +60,4 @@ Y aquí venía lo de Justine, pero no se ha podido añadir
 ## Comentarios de la práctica 3:
 <!-- A partir de aquí (esta línea no se muestra) -->
 
-Miguel Rincones Salinas
+Miguel Alejandro Rincones Salinas
